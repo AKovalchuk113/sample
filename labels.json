@@ -1,0 +1,31 @@
+{
+    "model_type": "yolos",
+    "id2label": {
+      "0": "LightVehicle",
+      "1": "Person",
+      "2": "Building",
+      "3": "UPole",
+      "4": "Boat",
+      "5": "Bike",
+      "6": "Container",
+      "7": "Truck",
+      "8": "Gastank",
+      "9": "Digger",
+      "10": "SolarPanels",
+      "11": "Bus"
+    },
+    "label2id": {
+      "LightVehicle": 0,
+      "Person": 1,
+      "Building": 2,
+      "UPole": 3,
+      "Boat": 4,
+      "Bike": 5,
+      "Container": 6,
+      "Truck": 7,
+      "Gastank": 8,
+      "Digger": 9,
+      "SolarPanels": 10,
+      "Bus": 11
+    }
+  }
